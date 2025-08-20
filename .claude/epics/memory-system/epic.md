@@ -4,7 +4,7 @@ status: backlog
 created: 2025-08-20T11:26:44Z
 progress: 0%
 prd: .claude/prds/memory-system.md
-github: [Will be updated when synced to GitHub]
+github: https://github.com/adrianpuiu/claude-code-memory-system
 ---
 
 # Epic: Memory System
@@ -190,16 +190,16 @@ High-level task categories that will be created:
 - **Performance Issues**: Memory operations must not degrade Claude Code responsiveness
 
 ## Tasks Created
-- [ ] 001.md - Storage Foundation Setup (parallel: true)
-- [ ] 002.md - Context Capture System (parallel: false)
-- [ ] 003.md - Basic Retrieval Engine (parallel: true)
-- [ ] 004.md - Learning Pipeline (parallel: false)
-- [ ] 005.md - Memory Management System (parallel: true)
-- [ ] 006.md - Privacy & Security Framework (parallel: true)
-- [ ] 007.md - User Interface Components (parallel: false)
-- [ ] 008.md - Team Memory Sharing (parallel: true)
-- [ ] 009.md - Performance Optimization (parallel: true)
-- [ ] 010.md - Integration & Deployment (parallel: false)
+- [ ] 001.md - Storage Foundation Setup (parallel: true) → [Issue #1](https://github.com/adrianpuiu/claude-code-memory-system/issues/1)
+- [ ] 002.md - Context Capture System (parallel: false) → [Issue #2](https://github.com/adrianpuiu/claude-code-memory-system/issues/2)
+- [ ] 003.md - Basic Retrieval Engine (parallel: true) → [Issue #3](https://github.com/adrianpuiu/claude-code-memory-system/issues/3)
+- [ ] 004.md - Learning Pipeline (parallel: false) → [Issue #4](https://github.com/adrianpuiu/claude-code-memory-system/issues/4)
+- [ ] 005.md - Memory Management System (parallel: true) → [Issue #5](https://github.com/adrianpuiu/claude-code-memory-system/issues/5)
+- [ ] 006.md - Privacy & Security Framework (parallel: true) → [Issue #6](https://github.com/adrianpuiu/claude-code-memory-system/issues/6)
+- [ ] 007.md - User Interface Components (parallel: false) → [Issue #7](https://github.com/adrianpuiu/claude-code-memory-system/issues/7)
+- [ ] 008.md - Team Memory Sharing (parallel: true) → [Issue #8](https://github.com/adrianpuiu/claude-code-memory-system/issues/8)
+- [ ] 009.md - Performance Optimization (parallel: true) → [Issue #9](https://github.com/adrianpuiu/claude-code-memory-system/issues/9)
+- [ ] 010.md - Integration & Deployment (parallel: false) → [Issue #10](https://github.com/adrianpuiu/claude-code-memory-system/issues/10)
 
 Total tasks: 10
 Parallel tasks: 6
